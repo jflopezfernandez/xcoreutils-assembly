@@ -1,0 +1,3 @@
+
+%define EXIT_SUCCESS 0x00
+%define EXIT_FAILURE 0x01

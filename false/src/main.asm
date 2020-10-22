@@ -4,5 +4,5 @@
                     SECTION .text
 
 _start:             mov eax,SYSCALL_EXIT
-                    xor edi,edi
+                    mov edi,EXIT_FAILURE
                     syscall

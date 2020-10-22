@@ -31,7 +31,7 @@ Rewrite of the GNU coreutils package in C.
  * expand
  * expr
  * factor
- * false
+ * [false](./false/)
  * fmt
  * fold
  * head

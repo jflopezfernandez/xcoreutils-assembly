@@ -1,7 +1,7 @@
 
 vpath %.asm src
 
-TARGET := true
+TARGET := false
 
 all: $(TARGET)
 
