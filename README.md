@@ -91,7 +91,7 @@ Rewrite of the GNU coreutils package in C.
  * timeout
  * touch
  * tr
- * true
+ * [true](./true/)
  * truncate
  * tsort
  * tty
